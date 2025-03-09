@@ -1,6 +1,6 @@
 {
     "name": "smenor_iterate",
-    "short_name": "engage_smenor",
+    "short_name": "smenor_iterate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fff8fbf2",
